@@ -3,4 +3,32 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#e3e3e3</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlue">#198DC3</color>
+    <color name="colorTrans">#00198DC3</color>
+    <color name="offline_color">#E33C3C</color>
+    <color name="online_color">#5ab949</color>
+
+    <color name="colorNormal">#7E7E7E</color>
+    <color name="colorFire">#FF0000</color>
+    <color name="colorWater">#0090FF</color>
+    <color name="colorElectric">#FFE400</color>
+    <color name="colorGrass">#18E400</color>
+    <color name="colorIce">#47C5FF</color>
+
+    <color name="colorFighting">#C84600</color>
+    <color name="colorPoison">#8B03D5</color>
+    <color name="colorGround">#653700</color>
+    <color name="colorFlying">#C2F6F5</color>
+    <color name="colorPsychic">#B692F8</color>
+    <color name="colorBug">#03511D</color>
+
+    <color name="colorRock">#6E6060</color>
+    <color name="colorGhost">#887AA8</color>
+    <color name="colorDragon">#BA9B9B</color>
+    <color name="colorDark">#271C1C</color>
+    <color name="colorSteel">#AEBCBB</color>
+    <color name="colorFairy">#C74BD1</color>
 </resources>
