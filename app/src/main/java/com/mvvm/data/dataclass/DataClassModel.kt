@@ -1,7 +1,5 @@
 package com.mvvm.data.dataclass
 
-import com.mvvm.data.local.entity.PokemonTypeDataLocal
-
 data class PokemonList(
     var status: Int = 0,
     var pokemon: List<PokemonData>? = null
@@ -10,7 +8,7 @@ data class PokemonData (
     var id: String = "",
     var name: String = "",
     var url: String = "",
-    var types: List<PokemonTypeDataLocal>? = null
+    var types: List<PokemonType>? = null
 )
 
 data class Pokemon(
